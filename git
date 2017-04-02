@@ -1,0 +1,5 @@
+git remote rename origin upstream
+git remote add origin URL_TO_GITHUB_REPO
+git push origin master
+
+git remote add origin git@github.com:ptadas/AIND-Isolation.git
