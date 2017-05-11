@@ -1,7 +1,398 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45709c36-8543-40e1-8fdb-811a6827e955" name="Default" comment="" />
+    <list default="true" id="45709c36-8543-40e1-8fdb-811a6827e955" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/test/nullcert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/bin/futurize" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/bin/pasteurize" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/bin/udacity" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/bin/udacity_pa" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future-0.16.0.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future-0.16.0.dist-info/INSTALLER" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future-0.16.0.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future-0.16.0.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future-0.16.0.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future-0.16.0.dist-info/entry_points.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future-0.16.0.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future-0.16.0.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/_markupbase.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/datetime.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/_encoded_words.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/_header_value_parser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/_parseaddr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/_policybase.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/base64mime.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/charset.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/encoders.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/errors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/feedparser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/generator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/header.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/headerregistry.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/iterators.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/message.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/mime/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/mime/application.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/mime/audio.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/mime/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/mime/image.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/mime/message.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/mime/multipart.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/mime/nonmultipart.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/mime/text.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/parser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/policy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/quoprimime.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/email/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/html/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/html/entities.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/html/parser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/http/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/http/client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/http/cookiejar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/http/cookies.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/http/server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/misc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/socket.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/socketserver.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/test/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/test/badcert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/test/badkey.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/test/dh512.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/test/https_svn_python_org_root.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/test/keycert.passwd.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/test/keycert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/test/keycert2.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/test/nokia.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/test/nullbytecert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/test/pystone.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/test/sha256.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/test/ssl_cert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/test/ssl_key.passwd.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/test/ssl_key.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/test/ssl_servers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/test/support.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/total_ordering.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/urllib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/urllib/error.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/urllib/parse.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/urllib/request.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/urllib/response.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/urllib/robotparser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/xmlrpc/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/xmlrpc/client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/backports/xmlrpc/server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/builtins/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/builtins/disabled.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/builtins/iterators.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/builtins/misc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/builtins/newnext.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/builtins/newround.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/builtins/newsuper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/_dummy_thread.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/_markupbase.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/_thread.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/builtins.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/collections.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/configparser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/copyreg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/dbm/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/dbm/dumb.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/dbm/gnu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/dbm/ndbm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/html/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/html/entities.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/html/parser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/http/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/http/client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/http/cookiejar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/http/cookies.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/http/server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/itertools.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/pickle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/queue.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/reprlib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/socketserver.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/subprocess.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/sys.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/test/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/test/support.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/tkinter/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/tkinter/colorchooser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/tkinter/commondialog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/tkinter/constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/tkinter/dialog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/tkinter/dnd.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/tkinter/filedialog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/tkinter/font.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/tkinter/messagebox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/tkinter/scrolledtext.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/tkinter/simpledialog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/tkinter/tix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/tkinter/ttk.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/urllib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/urllib/error.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/urllib/parse.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/urllib/request.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/urllib/response.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/urllib/robotparser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/winreg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/xmlrpc/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/xmlrpc/client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/moves/xmlrpc/server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/standard_library/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/tests/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/types/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/types/newbytes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/types/newdict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/types/newint.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/types/newlist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/types/newmemoryview.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/types/newobject.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/types/newopen.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/types/newrange.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/types/newstr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/utils/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/future/utils/surrogateescape.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixer_util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_UserDict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_absolute_import.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_add__future__imports_except_unicode_literals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_basestring.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_bytes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_cmp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_division.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_division_safe.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_execfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_future_builtins.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_future_standard_library.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_future_standard_library_urllib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_metaclass.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_next_call.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_object.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_oldstr_wrap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_order___future__imports.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_print.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_print_with_import.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_raise.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_remove_old__future__imports.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_unicode_keep_u.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_unicode_literals_import.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/fixes/fix_xrange_with_import.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libfuturize/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/feature_base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_add_all__future__imports.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_add_all_future_builtins.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_add_future_standard_library_import.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_annotations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_division.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_features.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_fullargspec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_future_builtins.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_getcwd.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_imports.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_imports2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_kwargs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_memoryview.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_metaclass.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_newstyle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_next.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_printfunction.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_raise.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_raise_.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_throw.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/fixes/fix_unpacking.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/libpasteurize/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/past/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/past/builtins/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/past/builtins/misc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/past/builtins/noniterators.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/past/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/past/translation/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/past/types/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/past/types/basestring.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/past/types/olddict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/past/types/oldstr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/past/utils/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests-2.14.2.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests-2.14.2.dist-info/INSTALLER" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests-2.14.2.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests-2.14.2.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests-2.14.2.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests-2.14.2.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests-2.14.2.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/_internal_utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/adapters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/auth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/cacert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/certs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/cookies.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/hooks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/big5freq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/big5prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/chardetect.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/chardistribution.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/charsetgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/charsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/cli/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/cli/chardetect.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/codingstatemachine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/cp949prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/enums.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/escprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/escsm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/eucjpprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/euckrfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/euckrprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/euctwfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/euctwprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/gb2312freq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/gb2312prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/hebrewprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/jisfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/jpcntx.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/langbulgarianmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/langcyrillicmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/langgreekmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/langhebrewmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/langhungarianmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/langthaimodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/langturkishmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/latin1prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/mbcharsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/mbcsgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/mbcssm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/sbcharsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/sbcsgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/sjisprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/universaldetector.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/utf8prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/chardet/version.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/idna/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/idna/codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/idna/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/idna/core.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/idna/idnadata.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/idna/intranges.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/idna/uts46data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/_collections.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/connection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/contrib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/contrib/_securetransport/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/contrib/_securetransport/bindings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/contrib/_securetransport/low_level.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/contrib/appengine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/contrib/ntlmpool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/contrib/pyopenssl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/contrib/securetransport.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/contrib/socks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/fields.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/filepost.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/packages/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/packages/backports/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/packages/backports/makefile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/packages/ordered_dict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/packages/six.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/poolmanager.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/request.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/response.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/util/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/util/connection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/util/request.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/util/response.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/util/retry.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/util/selectors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/util/ssl_.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/util/timeout.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/util/url.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/packages/urllib3/util/wait.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/sessions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/status_codes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/structures.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt-0.7.1.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt-0.7.1.dist-info/INSTALLER" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt-0.7.1.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt-0.7.1.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt-0.7.1.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt-0.7.1.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt-0.7.1.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/_compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/adapters/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/adapters/appengine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/adapters/fingerprint.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/adapters/host_header_ssl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/adapters/socket_options.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/adapters/source.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/adapters/ssl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/auth/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/auth/_digest_auth_compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/auth/guess.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/auth/handler.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/auth/http_proxy_digest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/cookies/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/cookies/forgetful.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/downloadutils/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/downloadutils/stream.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/downloadutils/tee.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/multipart/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/multipart/decoder.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/multipart/encoder.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/sessions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/streaming_iterator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/threaded/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/threaded/pool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/threaded/thread.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/utils/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/utils/deprecated.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/utils/dump.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/utils/formdata.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/requests_toolbelt/utils/user_agent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/udacity_pa-0.2.4.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/udacity_pa-0.2.4.dist-info/INSTALLER" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/udacity_pa-0.2.4.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/udacity_pa-0.2.4.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/udacity_pa-0.2.4.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/udacity_pa-0.2.4.dist-info/entry_points.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/udacity_pa-0.2.4.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/udacity_pa-0.2.4.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/udacity_pa/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/udacity_pa/__main__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/udacity_pa/projectassistant.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/udacity_pa/sessionbuilder.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/udacity_pa/udacity.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/udacity_pa/uploadcallbacks.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AIND-Isolation" afterPath="$PROJECT_DIR$/AIND-Isolation" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AIND-Planning" afterPath="$PROJECT_DIR$/AIND-Planning" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/udacityNanoAI.iml" afterPath="$PROJECT_DIR$/.idea/udacityNanoAI.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/pip-selfcheck.json" afterPath="$PROJECT_DIR$/env/pip-selfcheck.json" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,26 +401,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/udacityNanoAI$sample_players.coverage" NAME="sample_players Coverage Results" MODIFIED="1490521464843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Isolation" />
-    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittests_in_agent_test.coverage" NAME="Unittests in agent_test Coverage Results" MODIFIED="1489927964981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Isolation" />
-    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittest_Project1Test_test_get_move_interface.coverage" NAME="Unittest Project1Test.test_get_move_interface Coverage Results" MODIFIED="1489927918045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Isolation" />
-    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittest_TestNakedTwins_test_naked_twins2.coverage" NAME="Unittest TestNakedTwins.test_naked_twins2 Coverage Results" MODIFIED="1487811958649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Sudoku" />
-    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittests_in_TestNakedTwins.coverage" NAME="Unittests in TestNakedTwins Coverage Results" MODIFIED="1487892797958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Sudoku" />
     <SUITE FILE_PATH="coverage/udacityNanoAI$Unittests_in_TestDiagonalSudoku.coverage" NAME="Unittests in TestDiagonalSudoku Coverage Results" MODIFIED="1487896402276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Sudoku" />
-    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittest_Project1Test_test_minimax.coverage" NAME="Unittest Project1Test.test_minimax Coverage Results" MODIFIED="1489927932240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Isolation" />
+    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittests_for_test_my_air_cargo_problems_TestAirCargoProb2.coverage" NAME="Unittests for test_my_air_cargo_problems.TestAirCargoProb2 Coverage Results" MODIFIED="1494412834094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Planning/tests" />
+    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittests_for_test_my_air_cargo_problems_TestAirCargoProb1.coverage" NAME="Unittests for test_my_air_cargo_problems.TestAirCargoProb1 Coverage Results" MODIFIED="1494412848338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Planning/tests" />
     <SUITE FILE_PATH="coverage/udacityNanoAI$Unittest_TestNakedTwins_test_naked_twins.coverage" NAME="Unittest TestNakedTwins.test_naked_twins Coverage Results" MODIFIED="1487892786582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Sudoku" />
     <SUITE FILE_PATH="coverage/udacityNanoAI$game_agent.coverage" NAME="game_agent Coverage Results" MODIFIED="1489928229138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Isolation" />
-    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittest_Project1Test_test_minimax_interface.coverage" NAME="Unittest Project1Test.test_minimax_interface Coverage Results" MODIFIED="1489927388553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Isolation" />
-    <SUITE FILE_PATH="coverage/udacityNanoAI$tournament.coverage" NAME="tournament Coverage Results" MODIFIED="1490570299589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Isolation" />
     <SUITE FILE_PATH="coverage/udacityNanoAI$PySudoku.coverage" NAME="PySudoku Coverage Results" MODIFIED="1487534283507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Sudoku" />
     <SUITE FILE_PATH="coverage/udacityNanoAI$play_game.coverage" NAME="play_game Coverage Results" MODIFIED="1490521432725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Isolation" />
+    <SUITE FILE_PATH="coverage/udacityNanoAI$solution.coverage" NAME="solution Coverage Results" MODIFIED="1487896378159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Sudoku" />
+    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittests_for_test_my_air_cargo_problems_TestAirCargoProb3.coverage" NAME="Unittests for test_my_air_cargo_problems.TestAirCargoProb3 Coverage Results" MODIFIED="1494412841850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Planning/tests" />
+    <SUITE FILE_PATH="coverage/udacityNanoAI$sample_players.coverage" NAME="sample_players Coverage Results" MODIFIED="1490521464843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Isolation" />
+    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittests_in_agent_test.coverage" NAME="Unittests in agent_test Coverage Results" MODIFIED="1489927964981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Isolation" />
+    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittests_for_test_my_planning_graph_TestPlanningGraphLevels_test_add_action_level.coverage" NAME="Unittests for test_my_planning_graph.TestPlanningGraphLevels.test_add_action_level Coverage Results" MODIFIED="1494416416815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Planning/tests" />
+    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittest_Project1Test_test_get_move_interface.coverage" NAME="Unittest Project1Test.test_get_move_interface Coverage Results" MODIFIED="1489927918045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Isolation" />
+    <SUITE FILE_PATH="coverage/udacityNanoAI$run_search.coverage" NAME="run_search Coverage Results" MODIFIED="1494423795324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Planning" />
+    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittest_TestNakedTwins_test_naked_twins2.coverage" NAME="Unittest TestNakedTwins.test_naked_twins2 Coverage Results" MODIFIED="1487811958649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Sudoku" />
+    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittests_in_TestNakedTwins.coverage" NAME="Unittests in TestNakedTwins Coverage Results" MODIFIED="1487892797958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Sudoku" />
+    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittests_for_test_my_planning_graph_TestPlanningGraphHeuristics.coverage" NAME="Unittests for test_my_planning_graph.TestPlanningGraphHeuristics Coverage Results" MODIFIED="1494417858729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Planning/tests" />
+    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittest_Project1Test_test_minimax.coverage" NAME="Unittest Project1Test.test_minimax Coverage Results" MODIFIED="1489927932240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Isolation" />
+    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittests_for_test_my_planning_graph_TestPlanningGraphLevels.coverage" NAME="Unittests for test_my_planning_graph.TestPlanningGraphLevels Coverage Results" MODIFIED="1494416426522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Planning/tests" />
+    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittest_Project1Test_test_minimax_interface.coverage" NAME="Unittest Project1Test.test_minimax_interface Coverage Results" MODIFIED="1489927388553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Isolation" />
+    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittests_for_test_my_planning_graph_TestPlanningGraphMutex.coverage" NAME="Unittests for test_my_planning_graph.TestPlanningGraphMutex Coverage Results" MODIFIED="1494417848137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Planning/tests" />
+    <SUITE FILE_PATH="coverage/udacityNanoAI$tournament.coverage" NAME="tournament Coverage Results" MODIFIED="1490570299589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Isolation" />
+    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittests_for_test_my_air_cargo_problems_TestAirCargoMethods.coverage" NAME="Unittests for test_my_air_cargo_problems.TestAirCargoMethods Coverage Results" MODIFIED="1494408791106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Planning/tests" />
     <SUITE FILE_PATH="coverage/udacityNanoAI$Unittest_Project1Test_test_alphabeta.coverage" NAME="Unittest Project1Test.test_alphabeta Coverage Results" MODIFIED="1489930997530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Isolation" />
     <SUITE FILE_PATH="coverage/udacityNanoAI$Unittest_Project1Test_test_heuristic.coverage" NAME="Unittest Project1Test.test_heuristic Coverage Results" MODIFIED="1489941375030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Isolation" />
     <SUITE FILE_PATH="coverage/udacityNanoAI$Unittest_TestNakedTwins_test_naked_twins__1_.coverage" NAME="Unittest TestNakedTwins.test_naked_twins (1) Coverage Results" MODIFIED="1487892498148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Sudoku" />
-    <SUITE FILE_PATH="coverage/udacityNanoAI$solution.coverage" NAME="solution Coverage Results" MODIFIED="1487896378159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Sudoku" />
     <SUITE FILE_PATH="coverage/udacityNanoAI$solution_test.coverage" NAME="solution_test Coverage Results" MODIFIED="1487988261674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Sudoku" />
     <SUITE FILE_PATH="coverage/udacityNanoAI$Unittests_in_Project1Test.coverage" NAME="Unittests in Project1Test Coverage Results" MODIFIED="1489941393070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Isolation" />
     <SUITE FILE_PATH="coverage/udacityNanoAI$Unittest_Project1Test_test_alphabeta_interface.coverage" NAME="Unittest Project1Test.test_alphabeta_interface Coverage Results" MODIFIED="1489927907917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Isolation" />
+    <SUITE FILE_PATH="coverage/udacityNanoAI$Unittests_for_test_my_planning_graph_TestPlanningGraphLevels_test_add_literal_level.coverage" NAME="Unittests for test_my_planning_graph.TestPlanningGraphLevels.test_add_literal_level Coverage Results" MODIFIED="1494416421863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIND-Planning/tests" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -37,25 +438,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="game_agent.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AIND-Isolation/game_agent.py">
+      <file leaf-file-name="git" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/git">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3528">
-              <caret line="196" column="21" lean-forward="false" selection-start-line="196" selection-start-column="21" selection-end-line="196" selection-end-column="21" />
+            <state relative-caret-position="76">
+              <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AIND-Isolation/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -81,6 +469,7 @@
       <find>get_blank_spaces</find>
       <find>opponent_moves</find>
       <find>posit</find>
+      <find>submit</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -102,6 +491,10 @@
         <option value="$PROJECT_DIR$/AIND-Isolation/isolation/isolation.py" />
         <option value="$PROJECT_DIR$/AIND-Isolation/game_agent.py" />
         <option value="$PROJECT_DIR$/AIND-Isolation/tournament.py" />
+        <option value="$PROJECT_DIR$/AIND-Planning/info" />
+        <option value="$PROJECT_DIR$/AIND-Planning/my_air_cargo_problems.py" />
+        <option value="$PROJECT_DIR$/AIND-Planning/my_planning_graph.py" />
+        <option value="$PROJECT_DIR$/AIND-Planning/run_search.py" />
       </list>
     </option>
   </component>
@@ -135,8 +528,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -181,133 +574,85 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sample_players">
-    <configuration default="false" name="Unittest Project1Test.test_heuristic" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.run_search">
+    <configuration default="false" name="Unittests for test_my_planning_graph.TestPlanningGraphLevels.test_add_literal_level" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AIND-Isolation" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AIND-Planning/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="udacityNanoAI" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AIND-Isolation/agent_test.py" />
-      <option name="CLASS_NAME" value="Project1Test" />
-      <option name="METHOD_NAME" value="test_heuristic" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AIND-Isolation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_pattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_legacyInformationCopiedToNew" value="true" />
-      <option name="_new_target" value="&quot;.&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_my_planning_graph.TestPlanningGraphLevels.test_add_literal_level&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in Project1Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittests for test_my_planning_graph.TestPlanningGraphLevels" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AIND-Isolation" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AIND-Planning/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="udacityNanoAI" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AIND-Isolation/agent_test.py" />
-      <option name="CLASS_NAME" value="Project1Test" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_CLASS" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AIND-Isolation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_pattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_legacyInformationCopiedToNew" value="true" />
-      <option name="_new_target" value="&quot;.&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_my_planning_graph.TestPlanningGraphLevels&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method />
     </configuration>
-    <configuration default="false" name="tournament" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Unittests for test_my_planning_graph.TestPlanningGraphMutex" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AIND-Planning/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="udacityNanoAI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_my_planning_graph.TestPlanningGraphMutex&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests for test_my_planning_graph.TestPlanningGraphHeuristics" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AIND-Planning/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="udacityNanoAI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_my_planning_graph.TestPlanningGraphHeuristics&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="run_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AIND-Isolation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AIND-Planning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="udacityNanoAI" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AIND-Isolation/tournament.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="sample_players" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AIND-Isolation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="udacityNanoAI" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AIND-Isolation/sample_players.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="play_game" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AIND-Isolation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="udacityNanoAI" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AIND-Isolation/play_game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AIND-Planning/run_search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -550,19 +895,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest Project1Test.test_heuristic" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in Project1Test" />
-      <item index="2" class="java.lang.String" itemvalue="Python.tournament" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sample_players" />
-      <item index="4" class="java.lang.String" itemvalue="Python.play_game" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for test_my_planning_graph.TestPlanningGraphLevels.test_add_literal_level" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for test_my_planning_graph.TestPlanningGraphLevels" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_my_planning_graph.TestPlanningGraphMutex" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_my_planning_graph.TestPlanningGraphHeuristics" />
+      <item index="4" class="java.lang.String" itemvalue="Python.run_search" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tournament" />
-        <item index="1" class="java.lang.String" itemvalue="Python.sample_players" />
-        <item index="2" class="java.lang.String" itemvalue="Python.play_game" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in Project1Test" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest Project1Test.test_heuristic" />
+        <item index="0" class="java.lang.String" itemvalue="Python.run_search" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for test_my_planning_graph.TestPlanningGraphHeuristics" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_my_planning_graph.TestPlanningGraphMutex" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_my_planning_graph.TestPlanningGraphLevels" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for test_my_planning_graph.TestPlanningGraphLevels.test_add_literal_level" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -603,32 +948,32 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittest_Project1Test_test_alphabeta - 2017.03.19 at 13h 31m 29s.xml">
-      <configuration name="Unittest Project1Test.test_alphabeta" configurationId="tests" />
+    <history-entry file="Unittests_for_test_my_air_cargo_problems_TestAirCargoMethods - 2017.05.10 at 12h 33m 11s.xml">
+      <configuration name="Unittests for test_my_air_cargo_problems.TestAirCargoMethods" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_Project1Test_test_alphabeta - 2017.03.19 at 13h 32m 28s.xml">
-      <configuration name="Unittest Project1Test.test_alphabeta" configurationId="tests" />
+    <history-entry file="Unittests_for_test_my_air_cargo_problems_TestAirCargoProb1 - 2017.05.10 at 13h 40m 48s.xml">
+      <configuration name="Unittests for test_my_air_cargo_problems.TestAirCargoProb1" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_Project1Test_test_alphabeta - 2017.03.19 at 13h 38m 43s.xml">
-      <configuration name="Unittest Project1Test.test_alphabeta" configurationId="tests" />
+    <history-entry file="Unittests_for_test_my_air_cargo_problems_TestAirCargoProb2 - 2017.05.10 at 13h 40m 34s.xml">
+      <configuration name="Unittests for test_my_air_cargo_problems.TestAirCargoProb2" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_Project1Test_test_alphabeta - 2017.03.19 at 13h 40m 59s.xml">
-      <configuration name="Unittest Project1Test.test_alphabeta" configurationId="tests" />
+    <history-entry file="Unittests_for_test_my_air_cargo_problems_TestAirCargoProb3 - 2017.05.10 at 13h 40m 42s.xml">
+      <configuration name="Unittests for test_my_air_cargo_problems.TestAirCargoProb3" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_Project1Test_test_alphabeta - 2017.03.19 at 13h 41m 32s.xml">
-      <configuration name="Unittest Project1Test.test_alphabeta" configurationId="tests" />
+    <history-entry file="Unittests_for_test_my_planning_graph_TestPlanningGraphHeuristics - 2017.05.10 at 15h 04m 19s.xml">
+      <configuration name="Unittests for test_my_planning_graph.TestPlanningGraphHeuristics" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_Project1Test_test_alphabeta - 2017.03.19 at 13h 42m 37s.xml">
-      <configuration name="Unittest Project1Test.test_alphabeta" configurationId="tests" />
+    <history-entry file="Unittests_for_test_my_planning_graph_TestPlanningGraphLevels - 2017.05.10 at 14h 40m 27s.xml">
+      <configuration name="Unittests for test_my_planning_graph.TestPlanningGraphLevels" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_Project1Test_test_alphabeta - 2017.03.19 at 13h 44m 01s.xml">
-      <configuration name="Unittest Project1Test.test_alphabeta" configurationId="tests" />
+    <history-entry file="Unittests_for_test_my_planning_graph_TestPlanningGraphLevels_test_add_action_level - 2017.05.10 at 14h 40m 17s.xml">
+      <configuration name="Unittests for test_my_planning_graph.TestPlanningGraphLevels.test_add_action_level" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_Project1Test_test_heuristic - 2017.03.19 at 13h 48m 05s.xml">
-      <configuration name="Unittest Project1Test.test_heuristic" configurationId="tests" />
+    <history-entry file="Unittests_for_test_my_planning_graph_TestPlanningGraphLevels_test_add_literal_level - 2017.05.10 at 14h 40m 22s.xml">
+      <configuration name="Unittests for test_my_planning_graph.TestPlanningGraphLevels.test_add_literal_level" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_Project1Test_test_heuristic - 2017.03.19 at 16h 36m 15s.xml">
-      <configuration name="Unittest Project1Test.test_heuristic" configurationId="tests" />
+    <history-entry file="Unittests_for_test_my_planning_graph_TestPlanningGraphMutex - 2017.05.10 at 15h 04m 08s.xml">
+      <configuration name="Unittests for test_my_planning_graph.TestPlanningGraphMutex" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_Project1Test - 2017.03.19 at 16h 37m 15s.xml">
       <configuration name="Unittests in Project1Test" configurationId="tests" />
@@ -637,17 +982,17 @@
   <component name="ToolWindowManager">
     <frame x="72" y="-11" width="1849" height="1092" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22820655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2559689" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5208768" sideWeight="0.50194335" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22129436" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36325678" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5208768" sideWeight="0.49805662" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36325678" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -694,108 +1039,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AIND-Isolation/isolation/isolation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIND-Isolation/game_agent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIND-Isolation/agent_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3825">
-          <caret line="255" column="0" lean-forward="false" selection-start-line="255" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIND-Isolation/isolation/isolation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIND-Isolation/game_agent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIND-Isolation/agent_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3825">
-          <caret line="255" column="0" lean-forward="false" selection-start-line="255" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIND-Isolation/isolation/isolation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIND-Isolation/game_agent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIND-Isolation/agent_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3825">
-          <caret line="255" column="0" lean-forward="false" selection-start-line="255" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIND-Isolation/isolation/isolation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIND-Isolation/game_agent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIND-Isolation/agent_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3825">
-          <caret line="255" column="0" lean-forward="false" selection-start-line="255" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIND-Isolation/isolation/isolation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/git">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AIND-Sudoku/solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -929,13 +1172,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/git">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/lib/python3.6/unittest/case.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
@@ -979,14 +1215,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AIND-Isolation/game_agent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3528">
-          <caret line="196" column="21" lean-forward="false" selection-start-line="196" selection-start-column="21" selection-end-line="196" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AIND-Isolation/tournament.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -998,16 +1226,130 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIND-Isolation/game_agent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="196" column="21" lean-forward="false" selection-start-line="196" selection-start-column="21" selection-end-line="196" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIND-Planning/info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="34" column="46" lean-forward="true" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIND-Planning/aimacode/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="472" column="4" lean-forward="false" selection-start-line="472" selection-start-column="4" selection-end-line="472" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIND-Planning/aimacode/planning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIND-Planning/tests/test_my_air_cargo_problems.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-164">
+          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIND-Planning/aimacode/logic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="83" column="13" lean-forward="false" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1552350081/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="4322" column="8" lean-forward="false" selection-start-line="4322" selection-start-column="8" selection-end-line="4322" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIND-Planning/my_planning_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="551" column="15" lean-forward="false" selection-start-line="551" selection-start-column="15" selection-end-line="551" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIND-Planning/tests/test_my_planning_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2299">
+          <caret line="120" column="46" lean-forward="false" selection-start-line="120" selection-start-column="46" selection-end-line="120" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/argparse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIND-Planning/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="250">
+            <caret line="151" column="406" lean-forward="true" selection-start-line="151" selection-start-column="406" selection-end-line="151" selection-end-column="406" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIND-Planning/run_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="110" column="4" lean-forward="false" selection-start-line="110" selection-start-column="4" selection-end-line="110" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIND-Planning/lp_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIND-Planning/my_air_cargo_problems.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1964">
+          <caret line="361" column="10" lean-forward="false" selection-start-line="361" selection-start-column="10" selection-end-line="361" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIND-Planning/cargo_planning-result-16780.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
